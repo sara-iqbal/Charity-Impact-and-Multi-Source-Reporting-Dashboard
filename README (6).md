@@ -79,20 +79,6 @@ Because the data is synthetic, these numbers show how the process works. They ar
 2. Click Runtime, then Run all.
 3. The notebook creates the data, cleans it and builds the dashboard. It will also download a zip file of the results.
 
-## How to publish the dashboard
-
-1. Create a new GitHub repository and upload all these files.
-2. Go to Settings, then Pages.
-3. Under Branch choose main, and choose the docs folder. Save.
-4. After a minute your dashboard is live at your GitHub Pages address.
-
-## Files in this project
-
-* Charity_BI_Project.ipynb : the Colab notebook that runs everything
-* sql/views.sql : the SQL views
-* data/ : raw files, clean files and the validation report
-* docs/index.html : the web dashboard
-* POWERBI_GUIDE.md : how to build the Power BI version and how colleagues use it
 
 ## Tools used
 
